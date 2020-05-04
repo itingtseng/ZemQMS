@@ -114,9 +114,8 @@
              bindto: '#donut-chart',
             data: {
                 columns: [
-                    ['data1', 46],
-                    ['data2', 24],
-                    ['data3', 30]
+                    ['1️⃣', 46],
+                    ['2️⃣', 24]
                 ],
                 type : 'donut'
             },
@@ -128,7 +127,7 @@
 				}
             },
             color: {
-            	pattern: ["#f4f8fb", "#5d9cec", "#5fbeaa"]
+            	pattern: ["#5d9cec", "#5fbeaa"]
             }
         });
         
