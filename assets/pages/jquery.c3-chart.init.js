@@ -114,20 +114,21 @@
              bindto: '#donut-chart',
             data: {
                 columns: [
-                    ['Priority 1️⃣', 46],
-                    ['Priority 2️⃣', 24]
+                    ['Priority 1', 12],
+                    ['Priority 2', 24],
+                    ['Priority 3', 64]
                 ],
                 type : 'donut'
             },
             donut: {
-                title: "😀100%",
+                title: "😀88%",
                 width: 60,
 				label: { 
 					show:false
 				}
             },
             color: {
-            	pattern: ["#5fbeaa", "#ffbd4a"]
+            	pattern: ["#f05050", "#ffbd4a", "#5fbeaa"]
             }
         });
         
