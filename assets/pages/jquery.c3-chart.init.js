@@ -121,7 +121,7 @@
                 type : 'donut'
             },
             donut: {
-                title: "😀88%",
+                title: "😀 88%",
                 width: 60,
 				label: { 
 					show:false
