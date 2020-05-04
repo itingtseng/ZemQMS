@@ -114,14 +114,14 @@
              bindto: '#donut-chart',
             data: {
                 columns: [
-                    ['1️⃣', 46],
-                    ['2️⃣', 24]
+                    ['Priority 1️⃣', 46],
+                    ['Priority 2️⃣', 24]
                 ],
                 type : 'donut'
             },
             donut: {
-                title: "😀",
-                width: 15,
+                title: "😀100%",
+                width: 60,
 				label: { 
 					show:false
 				}
